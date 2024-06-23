@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638546980430000000
-    m_Hash: 2349020075
+      ticks: 638546992970000000
+    m_Hash: 3375441040
   m_LockFileStatus:
     m_FilePath: /Users/matsumotoshouhi/Documents/GitHub/index/lionkingTeam/liontest1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638546980490000000
-    m_Hash: 815515474
+      ticks: 638546992970000000
+    m_Hash: 3650533975
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -848,12 +848,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.6
     nextVersion: 
-- packageId: com.unity.timeline@1.6.4
+- packageId: com.unity.timeline@1.6.5
   testable: 0
   isDirectDependency: 1
-  version: 1.6.4
+  version: 1.6.5
   source: 1
-  resolvedPath: /Users/matsumotoshouhi/Documents/GitHub/index/lionkingTeam/liontest1/Library/PackageCache/com.unity.timeline@1.6.4
+  resolvedPath: /Users/matsumotoshouhi/Documents/GitHub/index/lionkingTeam/liontest1/Library/PackageCache/com.unity.timeline@1.6.5
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1010,13 +1010,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637789039180000000
-  documentationUrl: 
+  datePublishedTicks: 638182037450000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.6/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: d7e1eb6805737974459309b7d6e7db58635dd167
+    revision: 4ed67a7e62ce940db3d44dc5eca8fade1c664aed
     path: 
   unityLifecycle:
     version: 1.6.4
